@@ -1,5 +1,5 @@
 # best banner script for terminal 2020
-always better and different
+# always better and different
 
 better than the standard toilet,figlet or cowsay banner softwares
 fully customizable since it's written in bash script
